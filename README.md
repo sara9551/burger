@@ -6,7 +6,7 @@ This app lets users input the names of burgers they'd like to eat.
 * The following image illstrates:
 
 
-![Part 1 - Working](burger/public/assets/img/burger.screen.png)
+![Part 1 - Working](burger/burger.screen.png)
 
 
 **Technologies Used**
